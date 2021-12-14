@@ -1,0 +1,235 @@
+PS C:\Users\Mi Notebook Pro\Desktop\Probleme\_PROIECTE_PY\Introducere_in_Criptologie\proiect_tor_crypto> python main.py
+Adresele nodurilor din retea:
+networkBoss: <NetworkNode.NetworkNode object at 0x01CEAA30>
+node number 0: <NetworkNode.NetworkNode object at 0x01CEA9F0>
+node number 1: <NetworkNode.NetworkNode object at 0x01DEFED0>
+node number 2: <NetworkNode.NetworkNode object at 0x01DEFE10>
+node number 3: <NetworkNode.NetworkNode object at 0x01DEFC30>
+node number 4: <NetworkNode.NetworkNode object at 0x0384CCB0>
+node number 5: <NetworkNode.NetworkNode object at 0x0384CCD0>
+node number 6: <NetworkNode.NetworkNode object at 0x03875230>
+node number 7: <NetworkNode.NetworkNode object at 0x03875270>
+node number 8: <NetworkNode.NetworkNode object at 0x01DEFCD0>
+node number 9: <NetworkNode.NetworkNode object at 0x0384CD10>
+node number 10: <NetworkNode.NetworkNode object at 0x01DEFB70>
+node number 11: <NetworkNode.NetworkNode object at 0x01DF9090>
+node number 12: <NetworkNode.NetworkNode object at 0x03875250>
+node number 13: <NetworkNode.NetworkNode object at 0x03875290>
+node number 14: <NetworkNode.NetworkNode object at 0x038752B0>
+node number 15: <NetworkNode.NetworkNode object at 0x038752D0>
+node number 16: <NetworkNode.NetworkNode object at 0x038752F0>
+node number 17: <NetworkNode.NetworkNode object at 0x03875310>
+node number 18: <NetworkNode.NetworkNode object at 0x03875330>
+node number 19: <NetworkNode.NetworkNode object at 0x03875350>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01DED590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE550> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01DED590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A830> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A830> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01DED590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A970> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03839850> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A930> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A930> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA930> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A970> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x038BA930> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A870> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE550> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA850> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A870> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x038BA850> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A8F0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A810> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A9D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA950> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A810> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x038BA950> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A9D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A870> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA2F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE550> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A870> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A890> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE550> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A310> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A930> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A9F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A310> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A9F0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A930> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA9D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A310> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x038BA9D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A990> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A310> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A9D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01E6D5D0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A990> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A9D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A950> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA950> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A810> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A810> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x038BA950> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A7F0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x038BA2F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A950> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A7F0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A970> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A870> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A970> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A870> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A8F0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A950> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE790> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A950> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A270> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8D0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A270> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A830> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A270> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A270> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A830> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A890> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A870> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A910> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A870> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A910> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8F0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8B0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8B0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A9F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03B1A9F0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A9B0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x020CE570> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A9B0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x020CE570> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8B0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03B1A8D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8B0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A310> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A310> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A850> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A850> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A2B0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A2B0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A830> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A830> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A9D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A9D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A890> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A890> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A8F0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A8F0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A2D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A9D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A9D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A870> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A870> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE590> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x022EE590> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A970> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A970> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03D3A890> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03D3A890> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x022EE790> primeste 1 bani.
+Valorile din noduri dupa tranzactii:
+networkBoss amount: 15000
+node number 0: 0
+node number 1: 0
+node number 2: 0
+node number 3: 0
+node number 4: 0
+node number 5: 0
+node number 6: 0
+node number 7: 0
+node number 8: 0
+node number 9: 0
+node number 10: 0
+node number 11: 0
+node number 12: 0
+node number 13: 0
+node number 14: 0
+node number 15: 0
+node number 16: 0
+node number 17: 0
+node number 18: 0
+node number 19: 0
