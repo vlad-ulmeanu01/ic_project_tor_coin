@@ -59,3 +59,21 @@ class TwistedEdwardsMODEC:
             p2 <<= 1
 
         return ans
+
+    def compressPoint(self, point: tuple) -> int:
+        #cum pot sa folosesc 256 de biti, iar toate numerele sunt >= 0 && < 2^255-19 < 2^255 =>
+        #=> mai am un bit gol. curba Ed25519 este simetrica atat fata de Ox, cat si fata de Oy.
+        #folosesc bitul suplimentar pentru a spune daca punctul este dedesubt/peste Ox.
+        #(1 bit) sub/peste + 255 biti coord x.
+        if point[1] == self.getYs(point[0])[0]:
+            return point[0] #msb este 0.
+        return point[0] | (1<<255) #msb este 1.
+
+    def decompressPoint(self, compressedPoint: int) -> tuple:
+        side = compressedPoint & (1<<255)
+        compressedPoint ^= side #acum compressedPoint == x.
+        
+        y1, y2 = self.getYs(compressedPoint)
+        if side == 0:
+            return (compressedPoint, y1)
+        return (compressedPoint, y2)

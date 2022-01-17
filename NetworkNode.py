@@ -1,10 +1,10 @@
 import random
 import time
 
-import ProjectDefinitions
 import TwistedEdwardsMODEC
+import ProjectDefinitions
 import ModuloOps
-
+import EdDSA
 
 """
 NetworkNode: nod din retea.
@@ -25,11 +25,27 @@ class NetworkNode:
             15112221349535400772501151409588531511454012693041857206046113283949847762202,
             46316835694926478169428394003475163141307993866256225615783033603165251855960)
 
+        #ordinul puncutului ales ca generator in clasa modulor 2^255-19.
+        self.edGeneratorOrder = 8 * 7237005577332262213973186563042994240857116359379907606001950938285454250989
+        
         #cheie secreta folosita in comunicare = scalar din clasa de resturi Z/modZ
         self.commPrivKey = random.randint(1, self.modOps.mod - 1)
 
         #cheie publica folosita in comunicare = punct de pe curba Ed25519 = priv * G.
         self.commPublicKey = self.edmec.scalarMul(self.edGenerator, self.commPrivKey)
+
+
+
+        #clasa semnare/verificare
+        self.eddsa = EdDSA.EdDSA(self.edGenerator, self.edGeneratorOrder,
+                                 self.edmec, self.modOps)
+
+        #cheie secreta folosita in semnarea mesajelor.
+        self.signPrivKey = random.randint(1, self.modOps.mod - 1)
+
+        #cheie publica folosita in verificarea mesajelor de alte noduri (ca au fost semnate de nodul asta)
+        self.signPublicKey = self.edmec.scalarMul(self.edGenerator, self.signPrivKey)
+
 
 
 
