@@ -14,6 +14,11 @@ def main():
     for _ in range(ProjectDefinitions.NETWORK_NODE_COUNT):
         print(f"node number {_}: {nodes[_]}")
 
+    for node in [networkBoss, *nodes]:
+        print(f"Communication keys for node {node}: {node.getDhExchangeKeys()}")
+
+
+
     threads = []
 
     threads.append(threading.Thread(target = networkBoss.frontendTransact,
