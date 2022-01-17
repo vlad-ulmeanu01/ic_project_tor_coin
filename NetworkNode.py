@@ -1,4 +1,4 @@
-import proj_def
+import ProjectDefinitions
 import asyncio
 import random
 import copy
@@ -18,7 +18,7 @@ class NetworkNode:
         # adaug adresa noului nod in ledgerele celorlalte noduri.
 
         if networkBoss == None:
-            self.value = proj_def.NETWORK_BOSS_INIT_VALUE
+            self.value = ProjectDefinitions.NETWORK_BOSS_INIT_VALUE
             self.networkNodesSet.add(self)
             self.networkNodes.append(self)
         else:
@@ -63,7 +63,7 @@ class NetworkNode:
 
         self.backendSubValue(amount)
 
-        if random.random() < proj_def.RAND_THRESHOLD_DIRECT_TRANSACTION:
+        if random.random() < ProjectDefinitions.RAND_THRESHOLD_DIRECT_TRANSACTION:
             recipient.backendTransact(recipient, amount)
             return
 
@@ -78,8 +78,8 @@ class NetworkNode:
     """
     def backendAddValue (self, amount: int, spendTime = None):
         if spendTime == None:
-            time.sleep(random.uniform(proj_def.TIME_WAIT_LOW_BOUND,
-                                      proj_def.TIME_WAIT_HI_BOUND))
+            time.sleep(random.uniform(ProjectDefinitions.TIME_WAIT_LOW_BOUND,
+                                      ProjectDefinitions.TIME_WAIT_HI_BOUND))
         self.value += amount
         #TODO trebuie bagat in ledgere informatia.
         print(f"(DEBUG backendAddValue) {self} primeste {amount} bani.")
@@ -94,8 +94,8 @@ class NetworkNode:
         #ca sa scazi amount.
 
         if spendTime == None:
-            time.sleep(random.uniform(proj_def.TIME_WAIT_LOW_BOUND,
-                                      proj_def.TIME_WAIT_HI_BOUND))
+            time.sleep(random.uniform(ProjectDefinitions.TIME_WAIT_LOW_BOUND,
+                                      ProjectDefinitions.TIME_WAIT_HI_BOUND))
         self.value -= amount
         #TODO trebuie bagat in ledgere informatia.
         print(f"(DEBUG backendSubValue) {self} pierde {amount} bani.")
