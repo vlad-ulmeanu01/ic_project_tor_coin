@@ -1,0 +1,128 @@
+PS C:\Users\Mi Notebook Pro\Documents\GitHub\ic_project_tor_coin> python main.py
+Adresele nodurilor din retea:
+networkBoss: <NetworkNode.NetworkNode object at 0x01CAAB30>
+node number 0: <NetworkNode.NetworkNode object at 0x0385FCF0>
+node number 1: <NetworkNode.NetworkNode object at 0x01D495D0>
+node number 2: <NetworkNode.NetworkNode object at 0x03934BD0>
+node number 3: <NetworkNode.NetworkNode object at 0x03934C50>
+node number 4: <NetworkNode.NetworkNode object at 0x03934C90>
+node number 5: <NetworkNode.NetworkNode object at 0x03934E30>
+node number 6: <NetworkNode.NetworkNode object at 0x03934DD0>
+Communication keys for node <NetworkNode.NetworkNode object at 0x01CAAB30>: {<NetworkNode.NetworkNode object at 0x01CAAB30>: 0, <NetworkNode.NetworkNode object at 0x0385FCF0>: 44678035606304698004253381788563099970022715378391573143052814237236818797714, <NetworkNode.NetworkNode object at 0x01D495D0>: 18308656542737764418959451754140665465955956507619898219221584562332177679193, <NetworkNode.NetworkNode object at 
+0x03934BD0>: 16279967654134639035302080123640787081541131636331162189869691375517684074055, <NetworkNode.NetworkNode object at 0x03934C50>: 148683064837401739673994917777153072036707665692122166837310036598403766005, <NetworkNode.NetworkNode object at 0x03934C90>: 100978178892382042902139531120975104054319833776197447982306075169180505788066, <NetworkNode.NetworkNode object at 0x03934E30>: 38860637012159701721536471688273976768433095553298950161590438589633603926931, <NetworkNode.NetworkNode object at 0x03934DD0>: 40360751849359292756750804909695939342058825461956849683130015444546521037798}
+Communication keys for node <NetworkNode.NetworkNode object at 0x0385FCF0>: {<NetworkNode.NetworkNode object at 0x0385FCF0>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 44678035606304698004253381788563099970022715378391573143052814237236818797714, <NetworkNode.NetworkNode object at 0x01D495D0>: 32784486413127897301294908232991104022088860319760477730391203958542742025018, <NetworkNode.NetworkNode object at 
+0x03934BD0>: 66304912433164395173316960267921906250348396172598665161657574122218292417724, <NetworkNode.NetworkNode object at 0x03934C50>: 3148019379485001342867356117056281402519639485465694692398355712682832862038, <NetworkNode.NetworkNode object at 0x03934C90>: 94352480615473270363535261202516944203679227716765352725373557689587187916553, <NetworkNode.NetworkNode object at 0x03934E30>: 63805523432744850190807823911068975331188646858449366507264550134676894176528, <NetworkNode.NetworkNode object at 0x03934DD0>: 36576166238023850636511627043539553822668090149455612355078086217653802477530}
+Communication keys for node <NetworkNode.NetworkNode object at 0x01D495D0>: {<NetworkNode.NetworkNode object at 0x01D495D0>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 18308656542737764418959451754140665465955956507619898219221584562332177679193, <NetworkNode.NetworkNode object at 0x0385FCF0>: 32784486413127897301294908232991104022088860319760477730391203958542742025018, <NetworkNode.NetworkNode object at 
+0x03934BD0>: 54260888311293768602842624689917829297931184073925503589909171326414027495156, <NetworkNode.NetworkNode object at 0x03934C50>: 87377284360607913242915998790837775548699572436488909955758776785470392160111, <NetworkNode.NetworkNode object at 0x03934C90>: 37510438996592499448487326981484191253514058864088999340371637985712075874820, <NetworkNode.NetworkNode object at 0x03934E30>: 6404178982276734808057761166513557971375593277296532158814132974675607459200, <NetworkNode.NetworkNode object at 0x03934DD0>: 32234384887422274624987803724391182035727432198542285140514558698877906495957}
+Communication keys for node <NetworkNode.NetworkNode object at 0x03934BD0>: {<NetworkNode.NetworkNode object at 0x03934BD0>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 16279967654134639035302080123640787081541131636331162189869691375517684074055, <NetworkNode.NetworkNode object at 0x0385FCF0>: 66304912433164395173316960267921906250348396172598665161657574122218292417724, <NetworkNode.NetworkNode object at 
+0x01D495D0>: 54260888311293768602842624689917829297931184073925503589909171326414027495156, <NetworkNode.NetworkNode object at 0x03934C50>: 20930691386829632438940937625962602952075524421901786264024832785190644738666, <NetworkNode.NetworkNode object at 0x03934C90>: 72644334207213642636289730184588825122268204351568127592749387031173163011990, <NetworkNode.NetworkNode object at 0x03934E30>: 6786345942509797638963956438161498481598661698572948256887312395545983009701, <NetworkNode.NetworkNode object at 0x03934DD0>: 75879791643035351146473682965632288903196228917708301240498057966206093837494}
+Communication keys for node <NetworkNode.NetworkNode object at 0x03934C50>: {<NetworkNode.NetworkNode object at 0x03934C50>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 148683064837401739673994917777153072036707665692122166837310036598403766005, <NetworkNode.NetworkNode 
+object at 0x0385FCF0>: 3148019379485001342867356117056281402519639485465694692398355712682832862038, <NetworkNode.NetworkNode object at 0x01D495D0>: 87377284360607913242915998790837775548699572436488909955758776785470392160111, <NetworkNode.NetworkNode object at 0x03934BD0>: 20930691386829632438940937625962602952075524421901786264024832785190644738666, <NetworkNode.NetworkNode object at 0x03934C90>: 38182938042098729804764205798187959934917919858730620250239166824943948928853, <NetworkNode.NetworkNode object at 0x03934E30>: 68974276387681602198544698691303258511070226425669162907543471077450694879110, <NetworkNode.NetworkNode object at 0x03934DD0>: 115465796711116946182352415512674920467970532124378095871114398646807188989161}
+Communication keys for node <NetworkNode.NetworkNode object at 0x03934C90>: {<NetworkNode.NetworkNode object at 0x03934C90>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 100978178892382042902139531120975104054319833776197447982306075169180505788066, <NetworkNode.NetworkNode object at 0x0385FCF0>: 94352480615473270363535261202516944203679227716765352725373557689587187916553, <NetworkNode.NetworkNode object at 0x01D495D0>: 37510438996592499448487326981484191253514058864088999340371637985712075874820, <NetworkNode.NetworkNode object at 0x03934BD0>: 72644334207213642636289730184588825122268204351568127592749387031173163011990, <NetworkNode.NetworkNode object at 0x03934C50>: 38182938042098729804764205798187959934917919858730620250239166824943948928853, <NetworkNode.NetworkNode object at 0x03934E30>: 46983724884135522043131017075277143098536690309903767310875438328154244700440, <NetworkNode.NetworkNode object at 0x03934DD0>: 83650396112235861466470232574929605934599691914589020051482791586138719854601}
+Communication keys for node <NetworkNode.NetworkNode object at 0x03934E30>: {<NetworkNode.NetworkNode object at 0x03934E30>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 38860637012159701721536471688273976768433095553298950161590438589633603926931, <NetworkNode.NetworkNode object at 0x0385FCF0>: 63805523432744850190807823911068975331188646858449366507264550134676894176528, <NetworkNode.NetworkNode object at 
+0x01D495D0>: 6404178982276734808057761166513557971375593277296532158814132974675607459200, <NetworkNode.NetworkNode object at 0x03934BD0>: 
+6786345942509797638963956438161498481598661698572948256887312395545983009701, <NetworkNode.NetworkNode object at 0x03934C50>: 68974276387681602198544698691303258511070226425669162907543471077450694879110, <NetworkNode.NetworkNode object at 0x03934C90>: 46983724884135522043131017075277143098536690309903767310875438328154244700440, <NetworkNode.NetworkNode object at 0x03934DD0>: 73677745019809428198183826627639260567372775560111250811586550089772934166236}
+Communication keys for node <NetworkNode.NetworkNode object at 0x03934DD0>: {<NetworkNode.NetworkNode object at 0x03934DD0>: 0, <NetworkNode.NetworkNode object at 0x01CAAB30>: 40360751849359292756750804909695939342058825461956849683130015444546521037798, <NetworkNode.NetworkNode object at 0x0385FCF0>: 36576166238023850636511627043539553822668090149455612355078086217653802477530, <NetworkNode.NetworkNode object at 
+0x01D495D0>: 32234384887422274624987803724391182035727432198542285140514558698877906495957, <NetworkNode.NetworkNode object at 0x03934BD0>: 75879791643035351146473682965632288903196228917708301240498057966206093837494, <NetworkNode.NetworkNode object at 0x03934C50>: 115465796711116946182352415512674920467970532124378095871114398646807188989161, <NetworkNode.NetworkNode object at 0x03934C90>: 83650396112235861466470232574929605934599691914589020051482791586138719854601, <NetworkNode.NetworkNode object at 0x03934E30>: 73677745019809428198183826627639260567372775560111250811586550089772934166236}
+(DEBUG frontendTransact) <NetworkNode.NetworkNode object at 0x01CAAB30> -> <NetworkNode.NetworkNode object at 0x0385FCF0>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01D495D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG frontendTransact) <NetworkNode.NetworkNode object at 0x01CAAB30> -> <NetworkNode.NetworkNode object at 0x03934E30>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01D495D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934BD0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934BD0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934BD0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934BD0> pierde 1 bani.
+(DEBUG frontendTransact) <NetworkNode.NetworkNode object at 0x03934E30> -> <NetworkNode.NetworkNode object at 0x01D495D0>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01D495D0> pierde 1 bani.
+(DEBUG frontendTransact) <NetworkNode.NetworkNode object at 0x0385FCF0> -> <NetworkNode.NetworkNode object at 0x01D495D0>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x0385FCF0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG frontendTransact) <NetworkNode.NetworkNode object at 0x01CAAB30> -> <NetworkNode.NetworkNode object at 0x03934C50>
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934DD0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934DD0> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x0385FCF0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934C50> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934C50> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934BD0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934BD0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x0385FCF0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x0385FCF0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934C50> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934C50> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x0385FCF0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934C50> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01D495D0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934C50> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x0385FCF0> primeste 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934DD0> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934DD0> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x03934E30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x03934E30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01CAAB30> primeste 1 bani.
+(DEBUG backendSubValue) <NetworkNode.NetworkNode object at 0x01CAAB30> pierde 1 bani.
+(DEBUG backendAddValue) <NetworkNode.NetworkNode object at 0x01D495D0> primeste 1 bani.
+Valorile din noduri dupa tranzactii:
+networkBoss amount: 14985
+node number 0: 1
+node number 1: 3
+node number 2: 0
+node number 3: 2
+node number 4: 0
+node number 5: 5
+node number 6: 0
+PS C:\Users\Mi Notebook Pro\Documents\GitHub\ic_project_tor_coin>
+
+nodul 0 are 1 valuta blocata in sistem.
+nodul 3 are 3 valuta blocata in sistem. (? dc nu doar una)

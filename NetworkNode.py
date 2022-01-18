@@ -152,7 +152,7 @@ class NetworkNode:
 
             assert(fromWho in self.dhExchangeKeys)
 
-            print(f"(DEBUG) dec with key {self.dhExchangeKeys[fromWho]}")
+            #print(f"(DEBUG) dec with key {self.dhExchangeKeys[fromWho]}")
 
             msg = AESCipher.AESCipher(self.dhExchangeKeys[fromWho]).decrypt(encMessage)
             msgAmount, msgTransactionHash, msgSignature = self.backendDecodeMessage(msg)
@@ -209,8 +209,8 @@ class NetworkNode:
                     self.backendEncodeMessage(sendTo, amount, transactionHash)
                 )
 
-                print(f"(DEBUG) enc with key {self.dhExchangeKeys[sendTo]}")
-                print(f"(DEBUG) enc amt {amount} hash {transactionHash}")
+                #print(f"(DEBUG) enc with key {self.dhExchangeKeys[sendTo]}")
+                #print(f"(DEBUG) enc amt {amount} hash {transactionHash}")
 
                 #ai incurcat sendTo cu recipient VV ;OOOOOO
                 sendTo.backendTransact(self, recipient, amount, encMessageToSend)
