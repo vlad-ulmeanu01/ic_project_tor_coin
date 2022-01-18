@@ -1,4 +1,5 @@
 import threading
+import time
 
 from NetworkNode import NetworkNode
 import ProjectDefinitions
@@ -22,18 +23,21 @@ def main():
     threads = []
 
     threads.append(threading.Thread(target = networkBoss.frontendTransact,
-                                    args = (nodes[5], 3)))
+                                    args = (nodes[0], 3)))
+    """
     threads.append(threading.Thread(target = networkBoss.frontendTransact,
-                                    args = (nodes[11], 7)))
-    threads.append(threading.Thread(target = nodes[11].frontendTransact,
-                                    args = (nodes[7], 2)))
+                                    args = (nodes[5], 7)))
     threads.append(threading.Thread(target = nodes[5].frontendTransact,
-                                    args = (nodes[7], 1)))
+                                    args = (nodes[1], 2)))
+    threads.append(threading.Thread(target = nodes[0].frontendTransact,
+                                    args = (nodes[1], 1)))
     threads.append(threading.Thread(target = networkBoss.frontendTransact,
-                                    args = (nodes[8], 5)))
+                                    args = (nodes[3], 5)))
+    """
 
     for th in threads:
         th.start()
+        time.sleep(1.5)
 
     for th in threads:
         th.join()
