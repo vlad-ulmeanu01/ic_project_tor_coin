@@ -35,7 +35,7 @@ def main():
 
     for th in threads:
         th.start()
-        time.sleep(1.5)
+        #time.sleep(1.5)
 
     for th in threads:
         th.join()

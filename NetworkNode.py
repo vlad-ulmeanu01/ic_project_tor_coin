@@ -152,8 +152,6 @@ class NetworkNode:
 
             assert(fromWho in self.dhExchangeKeys)
 
-            #print(f"(DEBUG) dec with key {self.dhExchangeKeys[fromWho]}")
-
             msg = AESCipher.AESCipher(self.dhExchangeKeys[fromWho]).decrypt(encMessage)
             msgAmount, msgTransactionHash, msgSignature = self.backendDecodeMessage(msg)
 
@@ -198,6 +196,8 @@ class NetworkNode:
                 trans1, trans2 = trans2, trans1
 
             for recipient, transactionHash, amount in (trans1, trans2):
+                print(f"(DEBUG backendTransact) {self} pierde {amount} bani.")
+
                 sendTo = random.choice(self.networkNodes) #aleg alt nod din retea.
                 #TODO trebuie sa alegi othNode pe care nu l-ai mai ales deja.
 
@@ -208,9 +208,6 @@ class NetworkNode:
                 encMessageToSend = AESCipher.AESCipher(self.dhExchangeKeys[sendTo]).encrypt(
                     self.backendEncodeMessage(sendTo, amount, transactionHash)
                 )
-
-                #print(f"(DEBUG) enc with key {self.dhExchangeKeys[sendTo]}")
-                #print(f"(DEBUG) enc amt {amount} hash {transactionHash}")
 
                 #ai incurcat sendTo cu recipient VV ;OOOOOO
                 sendTo.backendTransact(self, recipient, amount, encMessageToSend)
@@ -237,7 +234,8 @@ class NetworkNode:
 
         self.value -= amount
         #TODO trebuie bagat in ledgere informatia.
-        print(f"(DEBUG backendSubValue) {self} pierde {amount} bani.")
+        #print(f"(DEBUG backendSubValue) {self} pierde {amount} bani.")
+        #nu pun aici ca nu arata exact cand pleaca banii din nod.
 
 
 
