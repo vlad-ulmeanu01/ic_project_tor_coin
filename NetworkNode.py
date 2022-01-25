@@ -186,6 +186,7 @@ class NetworkNode:
         self.backendSubValue(amount)
 
         self.transactionsQueue.append((recipient, transactionHash, amount)) #ai nev si DE TRANSACTION HASH
+        print(f"(DEBUG backendTransact) {self} baga in coada {amount} bani.")
 
         while len(self.transactionsQueue) >= 2:
             trans1 = self.transactionsQueue.popleft()

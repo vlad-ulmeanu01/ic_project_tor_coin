@@ -1,0 +1,245 @@
+PS C:\Users\Mi Notebook Pro\Documents\GitHub\ic_project_tor_coin> python main.py
+Adresele nodurilor din retea:
+networkBoss: <BOSS>
+node number 0: <A>
+node number 1: <B>
+node number 2: <C>
+node number 3: <D>
+node number 4: <E>
+node number 5: <F>
+node number 6: <G>
+<BOSS> -> <A>
+<BOSS> baga in coada 1 bani.
+<BOSS> -> <F>
+<BOSS> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<A> -> <B>
+<F> -> <B>
+<BOSS> baga in coada 1 bani.
+<A> baga in coada 1 bani.
+<F> baga in coada 1 bani.
+<F> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<BOSS> pierde 1 bani.
+<F> pierde 1 bani.
+<BOSS> -> <D>
+<BOSS> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<D> primeste 1 bani.
+<D> baga in coada 1 bani.
+<G> primeste 1 bani.
+<BOSS> pierde 1 bani.
+<G> baga in coada 1 bani.
+<F> pierde 1 bani.
+<B> primeste 1 bani.
+<B> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<F> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<D> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<E> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<E> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<G> pierde 1 bani.
+<A> primeste 1 bani.
+<E> pierde 1 bani.
+<D> primeste 1 bani.
+<D> baga in coada 1 bani.
+<D> pierde 1 bani.
+<F> primeste 1 bani.
+<E> pierde 1 bani.
+<B> primeste 1 bani.
+<D> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<F> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<G> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<A> primeste 1 bani.
+<G> pierde 1 bani.
+<F> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<F> primeste 1 bani.
+<F> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<F> primeste 1 bani.
+<F> baga in coada 1 bani.
+<F> pierde 1 bani.
+<F> primeste 1 bani.
+<F> baga in coada 1 bani.
+<F> pierde 1 bani.
+<B> primeste 1 bani.
+<C> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<A> pierde 1 bani.
+<B> primeste 1 bani.
+<A> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<G> pierde 1 bani.
+<D> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<E> primeste 1 bani.
+<E> baga in coada 1 bani.
+<E> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<E> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<C> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<A> pierde 1 bani.
+<B> primeste 1 bani.
+<B> baga in coada 1 bani.
+<B> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<B> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<B> primeste 1 bani.
+<B> baga in coada 1 bani.
+<C> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<A> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<G> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<A> pierde 1 bani.
+<D> primeste 1 bani.
+<A> pierde 1 bani.
+<BOSS> primeste 1 bani.
+<BOSS> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<F> primeste 1 bani.
+<BOSS> pierde 1 bani.
+<A> primeste 1 bani.
+<A> baga in coada 1 bani.
+<G> pierde 1 bani.
+<G> primeste 1 bani.
+<G> baga in coada 1 bani.
+<BOSS> pierde 1 bani.
+<D> primeste 1 bani.
+Valorile din noduri dupa tranzactii:
+networkBoss amount: 14985
+node number A: 1
+node number B: 3
+node number C: 0
+node number D: 4
+node number E: 0
+node number F: 3
+node number G: 0
+
+(4 unitati in cozi)
+
+----------------------------
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.            <--------------------------
+<C> baga in coada 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> pierde 1 bani.              <--------------------------
+--------------------------------------------------
+
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> pierde 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> pierde 1 bani.
+----------------------------
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> primeste 1 bani.
+<C> baga in coada 1 bani.
+<C> pierde 1 bani.
+<C> pierde 1 bani.
